@@ -1,6 +1,6 @@
 # 👋 Gautham Sai
 
-🎓 ECE Student | 🔐 Cybersecurity | ⚡ Embedded Systems
+ ECE Student |  Cybersecurity |  Embedded Systems
 
 Building at the intersection of **hardware + security + automotive systems**
 
@@ -15,22 +15,17 @@ Building at the intersection of **hardware + security + automotive systems**
 
 ## ⚙️ Stack
 
-C • Python • Linux • Wireshark • ESP32
+C • Python • Linux • KiCad • ESP32
 
 ---
 
 ## 🚀 Projects
 
-* EMI/EMC Monitoring Device
+* Cognitive Load & Fatigue Detection
 * Anti-Tremor Glove
 * PeerDrop (BLE file transfer)
 
 ---
 
-## 🎯 Goal
-
-Automotive Cybersecurity Specialist
-
----
-
 📫 Discord: cyberhawk
+
