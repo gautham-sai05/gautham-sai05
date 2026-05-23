@@ -1,76 +1,48 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=500&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Gautham+Sai;ECE+Student+%7C+Embedded+Systems;Hardware+%7C+Machine+Learning;Building+things+that+actually+work" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Gautham%20Sai&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=ECE%20Student%20|%20Embedded%20Systems%20|%20Hardware&descAlignY=65"/>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work;Embedded+Systems+%7C+ML+%7C+IoT;ESP32+%7C+ARM+%7C+PCB+Design"/>
 
 <img src="https://komarev.com/ghpvc/?username=gautham-sai05&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/gautham-sai05?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Hardware-Team%20Lead%20@%20Bi0s-blue?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-```console
+```bash
 gautham@embedded:~$ neofetch
 ````
 
-</div>
-
 ```yaml
-Gautham_Sai:
+OS: EndeavourOS + Hyprland | Windows
+Role: Hardware Team Lead @ Bi0s
+Education: B.Tech ECE @ Amrita School of Engineering
 
-  Education:
-    Degree: B.Tech Electronics and Communication Engineering
-    College: Amrita School of Engineering
+Interests:
+- Embedded Systems
+- Embedded Security
+- Automotive Communication
+- Machine Learning
 
-  Current_Role:
-    Hardware Team Lead @ Bi0s
-
-  Interests:
-    - Embedded Systems
-    - Embedded Security
-    - Automotive Communication
-    - Machine Learning
-
-  Achievements:
-    - IEEE Conference Publication
-    - Multiple Hackathon Wins
+Achievements:
+- IEEE Research Publication
+- Multiple Hackathon Wins
 ```
-
----
 
 ## Tech Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=c,python,git,linux,arduino,matlab,arch,windows"/>
 
-<img src="https://skillicons.dev/icons?i=c,python"/>
+</div>
 
-### Embedded / Hardware
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino"/>
-
-`ESP32` • `ARM` • `PCB Design` • `KiCad` • `Sensor Integration`
-
-### Communication
-
-`CAN` • `UART` • `SPI` • `BLE`
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,linux,matlab"/>
-
-### Operating Systems
-
-<img src="https://skillicons.dev/icons?i=arch,windows"/>
-
-EndeavourOS + Hyprland
+`ESP32` • `ARM` • `CAN` • `UART` • `SPI` • `BLE` • `KiCad` • `PCB Design`
 
 </div>
 
@@ -78,77 +50,22 @@ EndeavourOS + Hyprland
 
 ## Featured Builds
 
-<table>
+◉ **PeerDrop** → BLE peer-to-peer offline communication
 
-<tr>
+◉ **Smart Anti-Tremor Glove** → Sensor-based stabilization
 
-<td width="50%">
+◉ **RF Fingerprinting** → ML-based IoT authentication
 
-### PeerDrop
-
-BLE-based peer-to-peer communication
-
-• ESP32
-• RSSI validation
-• Offline communication
-• NVS identity storage
-
-</td>
-
-<td width="50%">
-
-### Smart Anti-Tremor Glove
-
-• Sensor integration
-• Signal processing
-• Actuator control
-• Real-time stabilization
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### RF Fingerprinting Authentication
-
-• Random Forest + CNN
-• WiFi I/Q analysis
-• Device authentication
-
-</td>
-
-<td width="50%">
-
-### CAN Bus Attack Simulation
-
-• CAN analysis
-• Message injection
-• DoS simulation
-
-</td>
-
-</tr>
-
-</table>
+◉ **CAN Bus Simulation** → CAN protocol analysis
 
 ---
-
-## Current Focus
 
 ```bash
-Learning/
+Currently Learning/
 ├── Embedded Linux
 ├── Hardware Security
-├── Automotive Communication
-└── System-Level Debugging
+└── System Debugging
 ```
-
----
-
-## Dashboard
 
 <div align="center">
 
@@ -164,13 +81,9 @@ Learning/
 
 </div>
 
----
-
 <div align="center">
 
-Discord: `cyberhawk`
-
-Email: `2005gauthamsai@gmail.com`
+Discord: `the_cyberhawk`
 
 </div>
-```
+
