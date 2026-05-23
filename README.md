@@ -1,60 +1,77 @@
-````md
+# <div align="center">Gautham Sai</div>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Gautham+Sai;ECE+Student+%7C+Embedded+Systems;Hardware+%7C+Machine+Learning;Building+things+that+actually+work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=ECE+Student;Embedded+Systems+%7C+Hardware;Machine+Learning+%7C+IoT;Building+things+that+actually+work" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-gautham--sai05-181717?style=for-the-badge&logo=github)](https://github.com/gautham-sai05)
-[![Visitors](https://komarev.com/ghpvc/?username=gautham-sai05&style=for-the-badge)]()
-[![Followers](https://img.shields.io/github/followers/gautham-sai05?style=for-the-badge)](https://github.com/gautham-sai05)
+<a href="https://github.com/gautham-sai05">
+<img src="https://img.shields.io/badge/GitHub-gautham--sai05-181717?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=gautham-sai05&style=for-the-badge">
+
+<img src="https://img.shields.io/github/followers/gautham-sai05?style=for-the-badge">
 
 </div>
 
 ---
 
 ```console
-gautham@embedded:~$ fetch
-````
+gautham@embedded:~$ whoami
+ECE Student | Embedded Systems | Hardware | ML
+```
+
+Building systems involving embedded devices, communication protocols, hardware design and intelligent systems.
+
+### Profile
 
 ```yaml
-Name: Gautham Sai
-Role: ECE Student
-College: Amrita School of Engineering
-Position: Hardware Team Lead @ Bi0s
+Education:
+  Degree: B.Tech Electronics and Communication Engineering
+  College: Amrita School of Engineering
 
-Focus:
-  - Embedded Systems
-  - Embedded Security
-  - Automotive Communication
-  - Machine Learning
+Role:
+  Hardware Team Lead @ Bi0s
 
 Achievements:
   - IEEE Research Publication
   - Multiple Hackathon Wins
+
+Focus:
+  - Embedded Systems
+  - Embedded Security
+  - Automotive Systems
 ```
 
-### Stack
+### Tech Stack
 
-`C` `Python` `ESP32` `Arduino` `ARM`
+`C` `Python` `Embedded C` `ESP32` `Arduino` `ARM`
+
 `CAN` `UART` `SPI` `BLE`
+
 `KiCad` `Linux` `Git` `MATLAB`
 
 ---
 
-### Featured Builds
+### Featured Projects
 
-◉ **PeerDrop**
-BLE-based peer-to-peer offline communication system
+**PeerDrop**
 
-◉ **Smart Anti-Tremor Glove**
-Sensor-based stabilization system
+* BLE peer-to-peer offline communication system
 
-◉ **RF Fingerprinting Authentication**
-ML-based IoT device authentication
+**Smart Anti-Tremor Glove**
 
-◉ **CAN Bus Attack Simulation**
-CAN communication and protocol analysis
+* Sensor-driven stabilization system
+
+**RF Fingerprinting Authentication**
+
+* ML-based IoT device authentication
+
+**CAN Bus Attack Simulation**
+
+* CAN protocol analysis
 
 ---
 
@@ -69,17 +86,19 @@ Automotive Systems
 System Debugging
 ```
 
+---
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gautham-sai05&show_icons=true&hide_border=true&theme=tokyonight"/>
+[![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautham-sai05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/gautham-sai05)
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-sai05&layout=compact&hide_border=true&theme=tokyonight"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-sai05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/gautham-sai05)
 
 </div>
 
+---
+
 <div align="center">
 
-Discord: cyberhawk
+Discord: `cyberhawk`
 
 </div>
-```
