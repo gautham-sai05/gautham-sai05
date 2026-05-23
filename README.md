@@ -1,167 +1,85 @@
 ````md
 <div align="center">
 
-# Gautham Sai
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Gautham+Sai;ECE+Student+%7C+Embedded+Systems;Hardware+%7C+Machine+Learning;Building+things+that+actually+work" />
 
-```bash
-$ whoami
-ECE Student | Embedded Systems | Hardware | Security
-````
+<br>
 
-Building practical systems where hardware, communication protocols,
-machine learning, and embedded software come together.
-
-[![GitHub followers](https://img.shields.io/github/followers/gautham-sai05?style=for-the-badge)](https://github.com/gautham-sai05)
-[![GitHub Stars](https://img.shields.io/github/stars/gautham-sai05?style=for-the-badge)](https://github.com/gautham-sai05)
-[![Profile Views](https://komarev.com/ghpvc/?username=gautham-sai05\&style=for-the-badge)]()
+[![GitHub](https://img.shields.io/badge/GitHub-gautham--sai05-181717?style=for-the-badge&logo=github)](https://github.com/gautham-sai05)
+[![Visitors](https://komarev.com/ghpvc/?username=gautham-sai05&style=for-the-badge)]()
+[![Followers](https://img.shields.io/github/followers/gautham-sai05?style=for-the-badge)](https://github.com/gautham-sai05)
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+```console
+gautham@embedded:~$ fetch
+````
 
 ```yaml
-Gautham_Sai:
+Name: Gautham Sai
+Role: ECE Student
+College: Amrita School of Engineering
+Position: Hardware Team Lead @ Bi0s
 
-  Education:
-    Degree: B.Tech Electronics and Communication Engineering
-    College: Amrita School of Engineering, Amritapuri
-    Year: 2024 - 2028
+Focus:
+  - Embedded Systems
+  - Embedded Security
+  - Automotive Communication
+  - Machine Learning
 
-  Current_Role:
-    Position: Hardware Team Lead
-    Community: Bi0s
-
-  Focus:
-    - Embedded Systems
-    - Embedded Security
-    - Hardware Development
-    - Automotive Systems
-    - Machine Learning
-
-  Languages:
-    - C
-    - Python
-    - Embedded C
-
-  Hardware:
-    - ESP32
-    - Arduino
-    - ARM Microcontrollers
-    - PCB Design
-    - Sensor Integration
-
-  Communication_Protocols:
-    - CAN
-    - UART
-    - SPI
-    - BLE
-
-  Tools:
-    - Linux
-    - Git
-    - KiCad
-    - MATLAB
-
-  Experience:
-    - IEEE Conference Research Paper Publication
-    - Multiple Technical Hackathon Wins
-    - CTF Participation
+Achievements:
+  - IEEE Research Publication
+  - Multiple Hackathon Wins
 ```
 
----
+### Stack
 
-# Technical Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-black?style=for-the-badge\&logo=c)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-
-### Embedded / Hardware
-
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge\&logo=arduino)
-![ARM](https://img.shields.io/badge/ARM-black?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-black?style=for-the-badge)
-
-### Tools
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge)
+`C` `Python` `ESP32` `Arduino` `ARM`
+`CAN` `UART` `SPI` `BLE`
+`KiCad` `Linux` `Git` `MATLAB`
 
 ---
 
-# Featured Projects
+### Featured Builds
 
-## PeerDrop
+◉ **PeerDrop**
+BLE-based peer-to-peer offline communication system
 
-Lightweight peer-to-peer data exchange system using ESP32 and BLE
+◉ **Smart Anti-Tremor Glove**
+Sensor-based stabilization system
 
-* BLE advertising and scanning
-* RSSI-based proximity validation
-* Offline communication
-* Persistent identity storage using NVS
+◉ **RF Fingerprinting Authentication**
+ML-based IoT device authentication
 
----
-
-## Smart Anti-Tremor Glove
-
-* Sensor integration
-* Signal processing
-* Actuator control
-* Real-time stabilization
+◉ **CAN Bus Attack Simulation**
+CAN communication and protocol analysis
 
 ---
 
-## RF Fingerprinting-Based IoT Authentication
-
-* Random Forest and CNN models
-* WiFi I/Q signal classification
-* Noise robustness analysis
-* Device authentication framework
-
----
-
-## CAN Bus Attack Simulation
-
-* CAN communication analysis
-* Message injection
-* Denial of Service simulation
-
----
-
-# Current Learning
+```console
+gautham@embedded:~$ currently_learning
+```
 
 ```bash
-Learning:
-├── Embedded Linux
-├── Automotive Communication
-├── System-Level Debugging
-└── Hardware Security
+Embedded Linux
+Hardware Security
+Automotive Systems
+System Debugging
 ```
 
----
+<div align="center">
 
-# GitHub Stats
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gautham-sai05&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api?username=gautham-sai05\&show_icons=true\&theme=tokyonight)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-sai05&layout=compact&hide_border=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-sai05\&layout=compact\&theme=tokyonight)
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gautham-sai05\&theme=tokyonight)
-
----
-
-# Connect
+<div align="center">
 
 Discord: cyberhawk
 
-Email: [2005gauthamsai@gmail.com](mailto:2005gauthamsai@gmail.com)
-
-GitHub: https://github.com/gautham-sai05
-
-```
+</div>
 ```
