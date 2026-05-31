@@ -1,89 +1,93 @@
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Gautham%20Sai&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Embedded%20Systems%20|%20Hardware%20|%20Machine%20Learning&descAlignY=60"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Gautham%20Sai&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=ECE%20Student%20|%20Embedded%20Systems%20|%20Hardware&descAlignY=65"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work;Embedded+Systems+%7C+ML+%7C+IoT;ESP32+%7C+ARM+%7C+PCB+Design"/>
-
-<img src="https://komarev.com/ghpvc/?username=gautham-sai05&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/gautham-sai05?style=for-the-badge&logo=github"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hardware+Team+Lead+%40+Bi0s;Building+Embedded+Systems;ESP32+%7C+ARM+%7C+BLE+%7C+CAN;PCB+Design+%7C+IoT+%7C+ML;EndeavourOS+%2B+Hyprland"/>
 </div>
 
 ---
 
 ```bash
-gautham@embedded:~$ neofetch
+gautham@endeavouros:~$ fastfetch
 ```
 
 ```yaml
-OS: EndeavourOS + Hyprland | Windows
 Role: Hardware Team Lead @ Bi0s
-Education: B.Tech ECE @ Amrita School of Engineering
+Education: B.Tech Electronics & Communication Engineering
 
-Interests:
-- Embedded Systems
-- Embedded Security
-- Automotive Communication
-- Machine Learning
+OS:
+  - EndeavourOS Linux + Hyprland
+  - Windows
+
+Focus:
+  - Embedded Systems
+  - Embedded Security
+  - Automotive Communication
+  - Machine Learning
 
 Achievements:
-- IEEE Research Publication
-- Multiple Hackathon Wins
+  - Multiple Hackathon Wins
+  - IEEE Conference Publication
 ```
 
-## Tech Stack
+## Workstation
 
-<div align="center">
+```bash
+OS        : EndeavourOS Linux
+WM        : Hyprland
+Terminal  : Kitty
+Shell     : Zsh
+Editor    : VS Code
 
-<img src="https://skillicons.dev/icons?i=c,python,git,linux,arduino,matlab,arch,windows"/>
+Hardware  : ESP32 | ARM Cortex-M | Arduino
+Tools     : KiCad | Git | MATLAB
+```
 
-</div>
+## Tech Arsenal
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,git,linux,arduino,matlab,arch,windows,vscode"/>
+</p>
 
-`ESP32` • `ARM` • `CAN` • `UART` • `SPI` • `BLE` • `KiCad` • `PCB Design`
-
-</div>
+<p align="center">
+ESP32 • ARM Cortex-M • CAN • UART • SPI • I2C • BLE • KiCad • PCB Design
+</p>
 
 ---
 
 ## Featured Builds
 
-◉ **PeerDrop** → BLE peer-to-peer offline communication
+◉ PeerDrop — Offline BLE communication using ESP32
 
-◉ **Smart Anti-Tremor Glove** → Sensor-based stabilization
+◉ Smart Anti-Tremor Glove — Sensor-driven stabilization system
 
-◉ **RF Fingerprinting** → ML-based IoT authentication
+◉ RF Fingerprinting Authentication — ML-based IoT device authentication
 
-◉ **CAN Bus Simulation** → CAN protocol analysis
+◉ Cognitive Load & Fatigue Detection — Signal processing and machine learning
+
+◉ CAN Bus Communication Toolkit — CAN analysis and simulation
 
 ---
 
 ```bash
-Currently Learning/
+Currently/
 ├── Embedded Linux
-├── Hardware Security
-└── System Debugging
+├── BLE Systems
+├── PCB Design
+├── Automotive Networks
+└── Hardware Security
 ```
 
-<div align="center">
+## Dashboard
 
+<p align="center">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gautham-sai05&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gautham-sai05&theme=github_dark"/>
+</p>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gautham-sai05&theme=github_dark"/>
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gautham-sai05&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gautham-sai05&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <div align="center">
-
-Discord: `the_cyberhawk`
-
+Discord: the_cyberhawk
 </div>
-
