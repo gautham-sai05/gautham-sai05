@@ -11,23 +11,21 @@ gautham@embedded:~$ whoami
 ECE Student | Embedded Systems | Hardware Development
 ```
 
-## About
+## Environment
 
-```yaml
-Education: B.Tech Electronics & Communication Engineering
-Role: Hardware Team Lead @ Bi0s
+```bash
+Education : B.Tech Electronics & Communication Engineering
+Role      : Hardware Team Lead @ Bi0s
 
-Environment:
-  OS: EndeavourOS Linux + Hyprland
-  Secondary: Windows
+OS        : EndeavourOS Linux + Hyprland
+Secondary : Windows
 
-Interests:
-  - Embedded Systems
-  - Embedded Security
-  - Automotive Communication
+Focus     : Embedded Systems
+            Embedded Security
+            Automotive Communication
 ```
 
-## Tech Stack
+## Toolchain
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,git,linux,arduino,arch,windows,vscode"/>
@@ -37,7 +35,7 @@ Interests:
 ESP32 • ARM Cortex-M • CAN • UART • SPI • I2C • BLE • KiCad • PCB Design • MATLAB
 </p>
 
-## Featured Projects
+## Selected Projects
 
 - PeerDrop — Offline BLE communication using ESP32
 - Smart Anti-Tremor Glove — Embedded stabilization system
@@ -61,6 +59,12 @@ Hardware Security
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gautham-sai05&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/gautham-sai05/gautham-sai05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
 <div align="center">
-Discord: the_cyberhawk
+
+Discord: `the_cyberhawk`
+
 </div>
