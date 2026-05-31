@@ -14,7 +14,7 @@
 
 ```bash
 gautham@embedded:~$ neofetch
-````
+```
 
 ```yaml
 OS: EndeavourOS + Hyprland | Windows
